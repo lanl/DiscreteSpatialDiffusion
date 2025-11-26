@@ -5,7 +5,6 @@
 **Spotlight, NeurIPS 2025**
 
 **Paper link:** https://openreview.net/forum?id=VkqKOc0j9w
-
 ---
 
 This repository contains the official implementation of *Discrete Spatial Diffusion (DSD)*, a diffusion modeling framework designed to preserve intensity in the forward and reverse processes. 
