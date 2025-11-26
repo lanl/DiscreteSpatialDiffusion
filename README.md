@@ -4,7 +4,8 @@
 **_Discrete Spatial Diffusion: Intensity-Preserving Diffusion Modeling_**  
 **Spotlight, NeurIPS 2025**
 
-**Paper link:** https://openreview.net/forum?id=VkqKOc0j9w
+**Paper link:** https://openreview.net/forum?id=kz3w2A2y0e
+
 ---
 
 This repository contains the official implementation of *Discrete Spatial Diffusion (DSD)*, a diffusion modeling framework designed to preserve intensity in the forward and reverse processes. 
